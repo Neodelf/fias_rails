@@ -1,4 +1,4 @@
-require "fias/engine"
+require "fias/version"
 
 module Fias
 end
